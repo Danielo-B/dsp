@@ -69,6 +69,7 @@ This "changes directory" and makes the named directory our new working
 directory. 
 
 > Question: How could we make sure that we moved?
+> We can makes sure that we have changed directories by running the pwd command again.
 
 Let's get a few special things out of the way as well for command line. When
 we talk about folders, we don't always want to move "into" the next folder
@@ -118,7 +119,7 @@ echo "HELLO WORLD" > test_file.txt
 Now nothing shows up on the screen. List the files and see if you can tell
 why.
 
-> Hint: we learned how to list all the files up above.
+> We inserted the text (using ECHO) into the text file.
 
 The greater than says, "put that output into the following file instead."
 
@@ -143,8 +144,8 @@ installed. Just swap in `wget` any place you see `curl`)_
 This prints the data directly to stdout and we can see the whole dataset.
 Nice. 
 
-> Let's save the output of the `curl` command to a file called `data.txt`. How
-would we do that?
+> Let's save the output of the `curl` command to a file called `data.txt`. 
+> We add "> data.txt" to the end of the above curl command
 
 Now that we have the data file, let's learn how to manipulate files.
 
@@ -192,6 +193,7 @@ ls -lh
 ```
 
 > What changed?
+> The byte size for files have been abbreviated by adding K to denote thousands or number of Kilobytes.
 
 If instead copying we just want to change the name of a file, we can do:
 

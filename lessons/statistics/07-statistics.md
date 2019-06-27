@@ -64,7 +64,7 @@ $ git clone https://github.com/AllenDowney/ThinkStats2.git
 
 *Include your Python code, results and explanation (where applicable).*
 
-### Q1. [Think Stats Chapter 2 Exercise 4](statistics/2-4-cohens_d.md) (effect size of Cohen's d)  
+### Q1. [Think Stats Chapter 2 Exercise 4](2-4-cohens_d.md) (effect size of Cohen's d)  
 Cohen's D is an example of effect size.  Other examples of effect size are:  correlation between two variables, mean difference, regression coefficients and standardized test statistics such as: t, Z, F, etc. In this example, you will compute Cohen's D to quantify (or measure) the difference between two groups of data.   
 
 You will see effect size again and again in results of algorithms that are run in data science.  For instance, in the bootcamp, when you run a regression analysis, you will recognize the t-statistic as an example of effect size.

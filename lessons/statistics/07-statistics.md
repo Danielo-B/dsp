@@ -106,7 +106,7 @@ The probaility that Elvis has an identical twin was about 45.45%
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Frequentists statistics deals with statisitcal inference based on the frequency or proportion of observations withing a sample. Bayesian statistics deals with apriori knowledge about the occurrence or probability of events. Both of these view points are different ways to deal with proabilities. However, frequentists extract their probabilities based on the frequency of the actual data where as a Bayesian statistician would have prior knowledge about the occurrence of the event and use that to determine the proabilty of an event or sequence of events. 
 
 ---
 
